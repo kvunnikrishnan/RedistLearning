@@ -1,2 +1,3 @@
 Open Source in memmory data strucute store.
 it can be used as database,cache and Messate broker.
+Redis holds his entire database in memmory.
